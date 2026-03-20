@@ -34,4 +34,8 @@ Hệ thống UA
 - [Dummy Creative Brief](https://docs.google.com/spreadsheets/d/1DJpxMwDcgbjYcRZ_3hfgHx_Cs-ijGheJRQWT84GVNYY/edit)
 
 **Actual & Plan**
-- [Actual — Thailand Samkhong Runrate Monthly](https://docs.google.com/spreadsheets/d/1-RDwJ115cDKnkrnmRiwQCraO59BWxWN9uZPspu5LhDM/edit?
+- [Actual — Thailand Samkhong Runrate Monthly](https://docs.google.com/spreadsheets/d/1-RDwJ115cDKnkrnmRiwQCraO59BWxWN9uZPspu5LhDM/edit?)
+- [Plan — Thailand Samkhong Runrate Monthly](https://docs.google.com/spreadsheets/d/168sRRa1q0b3l0SHIL7tSdHH3-9kmNimDFtBu27nFP04/edit)
+
+## 📌 US 
+- [UA Creatives - Pusoy EN](https://docs.google.com/spreadsheets/d/185odI7z8YkjPm1FzewSSG-YKbTuAMVwYQhTnmp84VWg/edit?gid=241433#gid=241433)
