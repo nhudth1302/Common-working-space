@@ -12,13 +12,23 @@ Hệ thống UA
 | `/data` | Sample data nhỏ để test code |
 
 ---
-
 ## 🔗 Compilation
 - [Survey Hub](https://drive.google.com/drive/folders/1Z86UGMiqkgbSnRwiBzPJhS0hgj-QU2Ir?usp=sharing) 
 - [SAMKHONG AND Report Monthly | Biz](https://drive.google.com/drive/folders/1Yezc5OphJi0OkaFRC2IZmzCy5jKxGIwa?usp=sharing)
 - [OneDrive Creative Hub](https://vngms-my.sharepoint.com/:f:/g/personal/nhudth2_vng_com_vn/IgA9gBs-KBHlRKfUqf79MtN4Ad9c6fFjHZQAm488MC0pYVE?e=FMvJgK)
 - [Users' Persona | Consolidation.xlxs](https://docs.google.com/spreadsheets/d/1mgSCwXusVQ0lKCLTmULpX6IEFxQEBASnoWkPdYfj8WA/edit?gid=75416440#gid=75416440)
 
+## 📌 CLAUDE SKILLS
+**Biz Report**
+- (OG File)[https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing]
+- (Agent&Sub-agent)[https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing]
+**Agent Specs**
+00-orchestrator.md — logic điều phối, error handling, retry
+01-data-ingestor.md — schema output report_data.json
+02ab-analysis-fb-gg.md — comparison table, trend data, insight format
+02c-analysis-alloc.md — Plotly code cụ thể, hover template, count len(df)
+02d-analysis-churn-anomaly.md — green gradient spec + 15 anomaly rules
+03-output-builders-qa.md — PDF/HTML/Excel builders + QA checklist
 
 ## 📌 THAILAND
 **Samkhong**
