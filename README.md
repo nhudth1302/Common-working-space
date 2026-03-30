@@ -20,8 +20,8 @@ Hệ thống UA
 
 ## 📌 CLAUDE SKILLS
 **Biz Report**
-- (OG File)[https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing]
-- (Agent&Sub-agent)[https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing]
+- [OG File](https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing)
+- [Agent&Sub-agent](https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing)
 **Agent Specs**
 00-orchestrator.md — logic điều phối, error handling, retry
 01-data-ingestor.md — schema output report_data.json
