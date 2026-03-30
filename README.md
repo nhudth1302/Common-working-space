@@ -26,11 +26,17 @@ Hệ thống UA
 **Agent Specs**
 
 00-orchestrator.md — logic điều phối, error handling, retry
+
 01-data-ingestor.md — schema output report_data.json
+
 02ab-analysis-fb-gg.md — comparison table, trend data, insight format
+
 02c-analysis-alloc.md — Plotly code cụ thể, hover template, count len(df)
+
 02d-analysis-churn-anomaly.md — green gradient spec + 15 anomaly rules
+
 03-output-builders-qa.md — PDF/HTML/Excel builders + QA checklist
+
 
 ## 📌 THAILAND
 **Samkhong**
