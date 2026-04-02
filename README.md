@@ -19,7 +19,7 @@ Hệ thống UA
 - [Users' Persona | Consolidation.xlxs](https://docs.google.com/spreadsheets/d/1mgSCwXusVQ0lKCLTmULpX6IEFxQEBASnoWkPdYfj8WA/edit?gid=75416440#gid=75416440)
 
 ## 📌 CLAUDE SKILLS
-**Biz Report**
+**Biz Report Team Thai**
 - [OG File](https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing)
 - [Agent&Sub-agent](https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing)
 
@@ -37,7 +37,9 @@ Hệ thống UA
 
 03-output-builders-qa.md — PDF/HTML/Excel builders + QA checklist
 
-
+**Biz Report Team Latam**
+- [Biz Report Latam](https://drive.google.com/file/d/1hNm0C9L6QbfQuAWqYG6aGZfi519QWc1E/view?usp=sharing)
+  
 ## 📌 THAILAND
 **Samkhong**
 **UA Optimization**
