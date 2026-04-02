@@ -19,6 +19,8 @@ Hệ thống UA
 - [Users' Persona | Consolidation.xlxs](https://docs.google.com/spreadsheets/d/1mgSCwXusVQ0lKCLTmULpX6IEFxQEBASnoWkPdYfj8WA/edit?gid=75416440#gid=75416440)
 
 ## 📌 CLAUDE SKILLS
+[Doc Skills Log](https://docs.google.com/document/d/1NwdZ9SDq3nAERRVO7pdhg3RT2BxjN_c3PfrE796jkB0/edit?tab=t.lcwrulkzsu6f)
+
 **Biz Report Team Thai**
 - [OG File](https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing)
 - [Agent&Sub-agent](https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing)
