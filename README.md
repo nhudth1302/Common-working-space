@@ -24,6 +24,8 @@ Hệ thống UA
 **Biz Report Team Thai**
 - [OG File](https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing)
 - [Agent&Sub-agent](https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing)
+- [NganLT6 skill tuning](https://drive.google.com/file/d/1u262CzWwmlORmvvtU6Irka9HuNgn4-qM/view?usp=sharing)
+[Data input](https://docs.google.com/spreadsheets/d/1dkFNURMthHX7idEWROJ8MMCY-nWwbrpw/edit?usp=sharing&ouid=117197235438836463093&rtpof=true&sd=true)
 
 **Agent Specs**
 
