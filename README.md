@@ -1,16 +1,5 @@
 # Common-working-space
-Hệ thống UA
----
-
-## 📁 Cấu trúc
-
-| Folder | Nội dung |
-|---|---|
-| `/notebooks` | Jupyter notebooks phân tích UA & survey |
-| `/scripts` | Python scripts tự động hoá clean data |
-| `/reports` | Báo cáo cuối gửi stakeholders |
-| `/data` | Sample data nhỏ để test code |
-
+Business As Usual
 ---
 ## 🔗 Compilation
 - [Survey Hub](https://drive.google.com/drive/folders/1Z86UGMiqkgbSnRwiBzPJhS0hgj-QU2Ir?usp=sharing) 
@@ -63,3 +52,5 @@ Hệ thống UA
 
 ## 📌 US 
 - [UA Creatives - Pusoy EN](https://docs.google.com/spreadsheets/d/185odI7z8YkjPm1FzewSSG-YKbTuAMVwYQhTnmp84VWg/edit?gid=241433#gid=241433)
+
+- https://docs.google.com/presentation/d/1JUaE5j0WcfpnN5bVOZmOp8DQZGb2aBhKrDk-xjdXDig/edit
