@@ -1,37 +1,9 @@
 # Common-working-space
 Business As Usual
 ---
-## 🔗 Compilation
-- [Survey Hub](https://drive.google.com/drive/folders/1Z86UGMiqkgbSnRwiBzPJhS0hgj-QU2Ir?usp=sharing) 
-- [SAMKHONG AND Report Monthly | Biz](https://drive.google.com/drive/folders/1Yezc5OphJi0OkaFRC2IZmzCy5jKxGIwa?usp=sharing)
-- [OneDrive Creative Hub](https://vngms-my.sharepoint.com/:f:/g/personal/nhudth2_vng_com_vn/IgA9gBs-KBHlRKfUqf79MtN4Ad9c6fFjHZQAm488MC0pYVE?e=FMvJgK)
-- [Users' Persona | Consolidation.xlxs](https://docs.google.com/spreadsheets/d/1mgSCwXusVQ0lKCLTmULpX6IEFxQEBASnoWkPdYfj8WA/edit?gid=75416440#gid=75416440)
 
 ## 📌 CLAUDE SKILLS
 [Doc Skills Log](https://docs.google.com/document/d/1NwdZ9SDq3nAERRVO7pdhg3RT2BxjN_c3PfrE796jkB0/edit?tab=t.lcwrulkzsu6f)
-
-**Biz Report Team Thai**
-- [OG File](https://drive.google.com/file/d/1XBkS_JsCBmRyH01OHyuT1I1P8pmJTRDI/view?usp=sharing)
-- [Agent&Sub-agent](https://drive.google.com/drive/folders/1fnMIxGH0yu1k17IqpM9cNX-l7qEN85up?usp=sharing)
-- [NganLT6 skill tuning](https://drive.google.com/file/d/1u262CzWwmlORmvvtU6Irka9HuNgn4-qM/view?usp=sharing)
-[Data input](https://docs.google.com/spreadsheets/d/1dkFNURMthHX7idEWROJ8MMCY-nWwbrpw/edit?usp=sharing&ouid=117197235438836463093&rtpof=true&sd=true)
-
-**Agent Specs**
-
-00-orchestrator.md — logic điều phối, error handling, retry
-
-01-data-ingestor.md — schema output report_data.json
-
-02ab-analysis-fb-gg.md — comparison table, trend data, insight format
-
-02c-analysis-alloc.md — Plotly code cụ thể, hover template, count len(df)
-
-02d-analysis-churn-anomaly.md — green gradient spec + 15 anomaly rules
-
-03-output-builders-qa.md — PDF/HTML/Excel builders + QA checklist
-
-**Biz Report Team Latam**
-- [Biz Report Latam](https://drive.google.com/file/d/1hNm0C9L6QbfQuAWqYG6aGZfi519QWc1E/view?usp=sharing)
   
 ## 📌 THAILAND
 **Samkhong**
@@ -49,8 +21,3 @@ Business As Usual
 **Actual & Plan**
 - [Actual — Thailand Samkhong Runrate Monthly](https://docs.google.com/spreadsheets/d/1-RDwJ115cDKnkrnmRiwQCraO59BWxWN9uZPspu5LhDM/edit?)
 - [Plan — Thailand Samkhong Runrate Monthly](https://docs.google.com/spreadsheets/d/168sRRa1q0b3l0SHIL7tSdHH3-9kmNimDFtBu27nFP04/edit)
-
-## 📌 US 
-- [UA Creatives - Pusoy EN](https://docs.google.com/spreadsheets/d/185odI7z8YkjPm1FzewSSG-YKbTuAMVwYQhTnmp84VWg/edit?gid=241433#gid=241433)
-
-- https://docs.google.com/presentation/d/1JUaE5j0WcfpnN5bVOZmOp8DQZGb2aBhKrDk-xjdXDig/edit
